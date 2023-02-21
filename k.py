@@ -250,10 +250,10 @@ def x():
 		print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
 		print('\033[97;35m [\033[1;32m✓]      The FIRE Is Back')
 		print(f'\033[97;35m [\033[1;32m✓] Successfully Update Done 3:2.1')
-	        print('----------------------------------------------------------------')
+	        
 		print('\033[97;15m [\033[1;23m•\033[97;35m] Total ids:\033[1;92m '+tl)
-		print('\033[97;35m [\033[1;32m•\033[97;35m] SPEED BOOST (ON/OF) AIRPLANE MODE)
-		print('----------------------------------------------------------------')      
+		print('\033[97;35m [\033[1;32m•\033[97;35m] SPEED BOOST (ON/OF) AIRPLANE MODE')
+		      
 		print(50*'_')
 	        for guru in user:
 			uid = kode+guru
@@ -284,13 +284,12 @@ def virus():
 		os.system('clear')
 		print(logo)
 		tl = str(len(user))
-		print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
+                print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
 		print('\033[97;35m [\033[1;32m✓]      The FIRE Is Back')
 		print(f'\033[97;35m [\033[1;32m✓] Successfully Update Done 3:2.1')
-                print('----------------------------------------------------------------')
+	        
 		print('\033[97;15m [\033[1;23m•\033[97;35m] Total ids:\033[1;92m '+tl)
 		print('\033[97;35m [\033[1;32m•\033[97;35m] SPEED BOOST (ON/OF) AIRPLANE MODE')
-		print('----------------------------------------------------------------')
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
@@ -321,10 +320,10 @@ def virus2():
                 print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
 		print('\033[97;35m [\033[1;32m✓]      The FIRE Is Back')
 		print(f'\033[97;35m [\033[1;32m✓] Successfully Update Done 3:2.1')
-                print('----------------------------------------------------------------')
+                
 		print('\033[97;15m [\033[1;23m•\033[97;35m] Total ids:\033[1;92m '+tl)
 		print('\033[97;35m [\033[1;32m•\033[97;35m] SPEED BOOST (ON/OF) AIRPLANE MODE')
-		print('----------------------------------------------------------------')
+		
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
@@ -355,10 +354,10 @@ def virus3():
                 print('\033[1;35m[\033[1;32m✓] This massage is for my hatters')
 		print('\033[97;35m [\033[1;32m✓]      The FIRE Is Back')
 		print(f'\033[97;35m [\033[1;32m✓] Successfully Update Done 3:2.1')
-                print('----------------------------------------------------------------')
+                
 		print('\033[97;15m [\033[1;23m•\033[97;35m] Total ids:\033[1;92m '+tl)
 		print('\033[97;35m [\033[1;32m•\033[97;35m] SPEED BOOST (ON/OF) AIRPLANE MODE')
-		print('----------------------------------------------------------------')
+		
 		print(50*'_')
 		for guru in user:
 			uid = kode+koda+kodb+guru
